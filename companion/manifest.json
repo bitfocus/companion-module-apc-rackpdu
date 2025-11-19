@@ -1,16 +1,16 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
-	"version": "0.0.0",
+	"id": "apc-rackpdu",
+	"name": "apc-rackpdu",
+	"shortname": "APC Rack PDU",
+	"description": "Companion module for controlling APC Rack PDUs",
+	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-apc-rackpdu.git",
+	"bugs": "https://github.com/bitfocus/companion-module-apc-rackpdu/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "droidsheep",
+			"email": "git@droidsheep.net"
 		}
 	],
 	"runtime": {
@@ -20,7 +20,7 @@
 		"entrypoint": "../dist/main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
-	"keywords": []
+	"manufacturer": "APC",
+	"products": ["Rack PDU"],
+	"keywords": ["rackpdu", "pdu", "power", "apc"]
 }
