@@ -28,7 +28,7 @@
 		"rackpdu": "^1.0.5"
 	},
 	"devDependencies": {
-		"@companion-module/tools": "^2.4.2",
+		"@companion-module/tools": "^2.6.1",
 		"@types/node": "^22.18.13",
 		"@types/node-schedule": "^2.1.8",
 		"eslint": "^9.39.0",
